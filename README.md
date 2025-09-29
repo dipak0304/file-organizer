@@ -1,6 +1,15 @@
 # Local File Organizer: AI File Management Run Entirely on Your Device, Privacy Assured
 
 Tired of digital clutter? Overwhelmed by disorganized files scattered across your computer? Let AI do the heavy lifting! The Local File Organizer is your personal organizing assistant, using cutting-edge AI to bring order to your file chaos - all while respecting your privacy.
+---
+
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Dipak%20Bohara-red)
+---
+## Social Media
+Any suggestion and feedback is welcome. You can message me on 
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipak.bohara03/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dipakbohara006)
 
 ## How It Works 💡
 
