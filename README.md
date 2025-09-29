@@ -133,7 +133,7 @@ Follow the installation instructions for your operating system.
 Clone this repository to your local machine using Git:
 
 ```zsh
-git clone https://github.com/QiuYannnn/Local-File-Organizer.git
+git clone https://github.com/dipak0304/file-organizer.git
 ```
 
 Or download the repository as a ZIP file and extract it to your desired location.
